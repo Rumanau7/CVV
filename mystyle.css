@@ -1,0 +1,69 @@
+/*This is for the background */
+body {
+  background-color:
+  margin-left:160px;
+}
+
+/*This is for the heading*/
+h1 {
+  color: navy;
+  background-color:DarkGrey;
+
+}
+h3 {
+  background-color:Gainsboro;
+  margin-left: 150px
+
+}
+
+/*This is for the table */
+table,th,td{
+  border:1px solid black;
+
+}
+/*For the navigation bar */
+.topnav {
+  background-color: #818181;
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+
+.topnav a:hover {
+  background-color: #00004d;
+  color: blue;
+}
+
+
+.topnav a.active {
+  background-color: #00004d;
+  color: white;
+}
+.topnav {
+  float: left;
+  width: 10%;
+  height: 1870px; /* only for demonstration, should be removed */
+  background: #ccc;
+  padding: 20px;
+}
+
+/* Style the list inside the menu */
+.topnav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+
+h4 {
+  background-color:Gainsboro;
+  margin-bottom: 0px;
+
+}
